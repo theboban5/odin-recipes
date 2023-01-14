@@ -1,0 +1,31 @@
+/* styles.css */
+
+h1, 
+p {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.headers {
+    text-align: left;
+}
+
+.soup,
+.cake,
+.lasagna {
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+.description {
+    color:blue;
+    text-align: center;
+}
